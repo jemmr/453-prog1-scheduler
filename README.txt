@@ -1,7 +1,7 @@
 Jemma Arona, Luis Guzman
 
 Special Instructions:
-; No special instructions; simply run make and execute the program using ./signal.
+; No special instructions; simply run make and execute the program using ./schedule.
 ; The program works as expected.
 ; The process structs include additional space before each command to manually test paths (for Jemma’s testing, so that Jemma can manually test PATH directories when running exec)
 
